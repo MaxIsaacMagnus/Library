@@ -1,2 +1,2 @@
 # Library
-A small library that contains a couple of my files for your convenience.
+A small library that contains files from some of my earlier projects.
